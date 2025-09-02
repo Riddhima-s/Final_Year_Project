@@ -1,0 +1,1181 @@
+2025-04-25 21:34:21,220 - __main__ - INFO - Gemini AI model initialized successfully
+2025-04-25 21:34:21,223 - __main__ - INFO - Starting server on port 5000
+2025-04-25 21:34:21,250 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.33:5000
+2025-04-25 21:34:21,250 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 21:34:28,526 - app - INFO - Gemini AI model initialized successfully
+2025-04-25 21:34:28,530 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-04-27 12:48:16,779 - __main__ - INFO - Gemini AI model initialized successfully
+2025-04-27 12:48:16,816 - __main__ - INFO - Starting server on port 5000
+2025-04-27 12:48:17,087 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.35:5000
+2025-04-27 12:48:17,097 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-27 12:48:30,077 - app - INFO - Gemini AI model initialized successfully
+2025-04-27 12:48:30,080 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-04-27 13:33:19,192 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:33:19] "OPTIONS /chat HTTP/1.1" 200 -
+2025-04-27 13:33:19,209 - __main__ - INFO - Received message: hi...
+2025-04-27 13:33:40,944 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:33:40] "POST /chat HTTP/1.1" 200 -
+2025-04-27 13:33:53,876 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:33:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-04-27 13:33:53,880 - __main__ - INFO - Received message: well i am stressed about a project...
+2025-04-27 13:34:14,036 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:34:14] "POST /chat HTTP/1.1" 200 -
+2025-04-27 13:34:53,036 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:34:53] "OPTIONS /chat HTTP/1.1" 200 -
+2025-04-27 13:34:53,039 - __main__ - INFO - Received message: so i am trying to deploy a project and both fromen...
+2025-04-27 13:35:23,920 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:35:23] "POST /chat HTTP/1.1" 200 -
+2025-04-27 13:50:31,378 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:50:31] "OPTIONS /chat HTTP/1.1" 200 -
+2025-04-27 13:50:31,381 - __main__ - INFO - Received message: hi...
+2025-04-27 13:50:48,689 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:50:48] "POST /chat HTTP/1.1" 200 -
+2025-04-27 13:52:03,398 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:52:03] "OPTIONS /chat HTTP/1.1" 200 -
+2025-04-27 13:52:03,401 - __main__ - INFO - Received message: hi...
+2025-04-27 13:52:14,863 - werkzeug - INFO - 127.0.0.1 - - [27/Apr/2025 13:52:14] "POST /chat HTTP/1.1" 200 -
+2025-05-01 22:37:03,585 - app - INFO - Gemini AI model initialized successfully
+2025-05-01 22:37:03,620 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-01 22:37:14,394 - app - INFO - Received message: hi...
+2025-05-01 22:37:27,358 - app - INFO - Received message: i feel stressed...
+2025-05-01 22:40:49,060 - app - INFO - Received message: i feel pretty lonely nowadays and want somebody to...
+2025-05-02 19:21:24,769 - app - INFO - Gemini AI model initialized successfully
+2025-05-02 19:21:24,809 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-02 19:24:55,420 - app - INFO - Received message: hi...
+2025-05-03 14:45:57,707 - app - INFO - Gemini AI model initialized successfully
+2025-05-03 14:45:57,743 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-03 14:47:47,377 - app - INFO - Received message: hello...
+2025-05-03 14:48:25,054 - app - INFO - Received message: i am not feeling good now...
+2025-05-03 14:49:20,093 - app - INFO - Received message: i am feeling suicidal...
+2025-05-03 14:51:29,442 - app - INFO - Received message: tohar mai ke bhosdo...
+2025-05-03 14:55:08,999 - app - INFO - Received message: but 988 won't work in india...
+2025-05-03 15:01:44,953 - app - INFO - Received message: mujhe accha nhi lg rha...
+2025-05-03 15:05:00,818 - app - INFO - Received message: mujhe bs apni feelings kisi ke sath share krni hai...
+2025-05-03 15:06:44,660 - app - INFO - Received message: hello...
+2025-05-03 15:06:54,129 - app - INFO - Received message: help me cure depression...
+2025-05-03 15:15:22,050 - app - INFO - Received message: mujhe udaas feel hota hai...
+2025-05-03 15:17:23,397 - __main__ - INFO - Gemini AI model initialized successfully
+2025-05-03 15:17:23,398 - __main__ - INFO - Starting server on port 5000
+2025-05-03 15:17:23,693 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.138.46:5000
+2025-05-03 15:17:23,694 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 15:17:29,345 - app - INFO - Gemini AI model initialized successfully
+2025-05-03 15:17:29,348 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-03 15:18:03,276 - app - INFO - Received message: mujhe accha nhi lag rha...
+2025-05-03 15:18:22,565 - app - INFO - Received message: mai dukhi hu...
+2025-05-03 15:18:50,536 - app - INFO - Received message: i feel so stressed...
+2025-05-05 22:51:49,075 - app - INFO - Gemini AI model initialized successfully
+2025-05-05 22:51:49,146 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-05 22:52:39,023 - app - INFO - Received message: exam se stress hai mujhe...
+2025-05-05 22:53:01,382 - app - INFO - Received message: pariksha se mujhse stress ho rha...
+2025-05-05 23:06:59,839 - app - INFO - Received message: mujhe thoda dukh hai...
+2025-05-05 23:08:27,763 - app - INFO - Received message: work is stressing me alot i can't understand anyth...
+2025-05-05 23:11:17,937 - app - INFO - Gemini AI model initialized successfully
+2025-05-05 23:11:17,941 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-05 23:11:53,279 - app - INFO - Received message: work stress and i'm sad...
+2025-05-05 23:12:42,819 - app - INFO - Received message: thanks bye...
+2025-05-05 23:13:07,558 - app - INFO - Received message: can you give these advices point wise?...
+2025-05-05 23:13:15,048 - app - INFO - Received message: yes...
+2025-05-05 23:13:26,119 - app - INFO - Received message: no just that...
+2025-05-05 23:18:29,715 - app - INFO - Received message: i feel a lot stress nowaday...
+2025-05-26 19:48:16,775 - __main__ - INFO - Gemini AI model initialized successfully
+2025-05-26 19:48:16,847 - __main__ - INFO - Starting server on port 5000
+2025-05-26 19:48:17,789 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.37:5000
+2025-05-26 19:48:17,789 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 19:51:36,348 - app - INFO - Gemini AI model initialized successfully
+2025-05-26 19:51:36,471 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-26 19:52:15,409 - app - INFO - Received message: mujhe stress hota hai bohot...
+2025-05-26 19:52:18,217 - app - WARNING - Attempt 1 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 42
+}
+]
+2025-05-26 19:52:19,625 - app - WARNING - Attempt 2 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 41
+}
+]
+2025-05-26 19:52:21,006 - app - WARNING - Attempt 3 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-05-26 19:52:21,008 - app - ERROR - Error processing request: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-05-26 19:54:36,131 - app - INFO - Gemini AI model initialized successfully
+2025-05-26 19:54:36,139 - waitress - INFO - Serving on http://0.0.0.0:5000
+2025-05-26 19:55:27,621 - app - INFO - Received message: mujhe aaj kl bohot stress hota hai...
+2025-05-26 19:55:30,008 - app - WARNING - Attempt 1 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 30
+}
+]
+2025-05-26 19:55:31,440 - app - WARNING - Attempt 2 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+]
+2025-05-26 19:55:32,876 - app - WARNING - Attempt 3 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-05-26 19:55:32,879 - app - ERROR - Error processing request: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-05-26 19:56:04,135 - __main__ - INFO - Gemini AI model initialized successfully
+2025-05-26 19:56:04,137 - __main__ - INFO - Starting server on port 5000
+2025-05-26 19:56:04,164 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.37:5000
+2025-05-26 19:56:04,165 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 19:56:24,156 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 19:56:24] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-26 19:56:24,161 - __main__ - INFO - Received message: mujhe aaj kl stress hota hai...
+2025-05-26 19:56:26,240 - __main__ - WARNING - Attempt 1 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-05-26 19:56:27,654 - __main__ - WARNING - Attempt 2 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2025-05-26 19:56:29,090 - __main__ - WARNING - Attempt 3 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 31
+}
+]
+2025-05-26 19:56:29,093 - __main__ - ERROR - Error processing request: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 31
+}
+]
+2025-05-26 19:56:29,096 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 19:56:29] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-05-26 20:02:50,733 - __main__ - INFO - Gemini AI model initialized successfully
+2025-05-26 20:02:50,734 - __main__ - INFO - Starting server on port 5000
+2025-05-26 20:02:50,817 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.37:5000
+2025-05-26 20:02:50,817 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-26 20:03:22,276 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 20:03:22] "OPTIONS /chat HTTP/1.1" 200 -
+2025-05-26 20:03:22,283 - __main__ - INFO - Received message: i feel stress a lot...
+2025-05-26 20:03:24,672 - __main__ - WARNING - Attempt 1 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-05-26 20:03:26,167 - __main__ - WARNING - Attempt 2 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 34
+}
+]
+2025-05-26 20:03:27,595 - __main__ - WARNING - Attempt 3 failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-05-26 20:03:27,597 - __main__ - ERROR - Error processing request: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 33
+}
+]
+2025-05-26 20:03:27,600 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 20:03:27] "[35m[1mPOST /chat HTTP/1.1[0m" 500 -
+2025-05-26 20:17:08,191 - __main__ - ERROR - GEMINI_API_KEY not found in environment variables - [app.py:34]
+2025-05-26 20:17:48,106 - __main__ - ERROR - GEMINI_API_KEY not found in environment variables - [app.py:34]
+2025-05-26 20:22:29,245 - __main__ - ERROR - GEMINI_API_KEY not found in environment variables - [app.py:34]
+2025-05-26 20:25:27,209 - __main__ - ERROR - GEMINI_API_KEY not found in environment variables - [app.py:34]
+2025-05-26 20:27:03,721 - __main__ - INFO - Gemini AI model initialized successfully - [app.py:44]
+2025-05-26 20:27:06,182 - __main__ - ERROR - Failed to initialize Gemini AI: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+] - [app.py:51]
+2025-05-26 20:27:06,435 - __main__ - ERROR - Full traceback: Traceback (most recent call last):
+  File "c:\Users\riddh\OneDrive\TherapyPal\GroupNo.58 Major project files\app.py", line 47, in <module>
+    test_response = model.generate_content("Hello, this is a test.")
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+        request,
+        **request_options,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+        request,
+    ...<2 lines>...
+        metadata=metadata,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+        target,
+    ...<3 lines>...
+        on_error=on_error,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 54
+}
+]
+ - [app.py:52]
+2025-05-26 20:33:34,384 - __main__ - INFO - Gemini AI model initialized successfully - [app.py:44]
+2025-05-26 20:33:36,569 - __main__ - ERROR - Failed to initialize Gemini AI: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+] - [app.py:51]
+2025-05-26 20:33:36,576 - __main__ - ERROR - Full traceback: Traceback (most recent call last):
+  File "c:\Users\riddh\OneDrive\TherapyPal\GroupNo.58 Major project files\app.py", line 47, in <module>
+    test_response = model.generate_content("Hello, this is a test.")
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+        request,
+        **request_options,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+        request,
+    ...<2 lines>...
+        metadata=metadata,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_unary.py", line 294, in retry_wrapped_func
+    return retry_target(
+        target,
+    ...<3 lines>...
+        on_error=on_error,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_unary.py", line 156, in retry_target
+    next_sleep = _retry_error_helper(
+        exc,
+    ...<6 lines>...
+        timeout,
+    )
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_base.py", line 214, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\retry\retry_unary.py", line 147, in retry_target
+    result = target()
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+  File "C:\Users\riddh\AppData\Roaming\Python\Python313\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.ResourceExhausted: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_input_token_count"
+  quota_id: "GenerateContentInputTokensPerModelPerMinute-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-1.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+ - [app.py:52]
+2025-05-26 20:44:35,920 - __main__ - INFO - Gemini AI model initialized successfully - [app.py:44]
+2025-05-26 20:44:38,769 - __main__ - INFO - Gemini AI connection test successful - [app.py:48]
+2025-05-26 20:44:38,773 - __main__ - INFO - Starting server on port 5000 - [app.py:270]
+2025-05-26 20:44:38,773 - __main__ - INFO - Debug mode: False - [app.py:271]
+2025-05-26 20:44:38,774 - __main__ - INFO - API key configured: True - [app.py:272]
+2025-05-26 20:44:39,100 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.37:5000 - [_internal.py:97]
+2025-05-26 20:44:39,101 - werkzeug - INFO - [33mPress CTRL+C to quit[0m - [_internal.py:97]
+2025-05-26 20:45:17,590 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 20:45:17] "OPTIONS /chat HTTP/1.1" 200 - - [_internal.py:97]
+2025-05-26 20:45:17,595 - __main__ - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-26 20:45:17,596 - __main__ - INFO - Processing message: mujhe bohot stress hota hai - [app.py:156]
+2025-05-26 20:45:17,596 - __main__ - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-26 20:45:24,810 - __main__ - INFO - Successfully generated response of length 1082 - [app.py:199]
+2025-05-26 20:45:24,812 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 20:45:24] "POST /chat HTTP/1.1" 200 - - [_internal.py:97]
+2025-05-26 20:45:53,920 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 20:45:53] "OPTIONS /chat HTTP/1.1" 200 - - [_internal.py:97]
+2025-05-26 20:45:53,926 - __main__ - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-26 20:45:53,929 - __main__ - INFO - Processing message: i feel I am so lonely can you talk to me? - [app.py:156]
+2025-05-26 20:45:53,930 - __main__ - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-26 20:45:57,065 - __main__ - INFO - Successfully generated response of length 553 - [app.py:199]
+2025-05-26 20:45:57,067 - werkzeug - INFO - 127.0.0.1 - - [26/May/2025 20:45:57] "POST /chat HTTP/1.1" 200 - - [_internal.py:97]
+2025-05-27 12:47:27,775 - __main__ - WARNING - Using hardcoded API key - this should be moved to environment variables - [app.py:38]
+2025-05-27 12:47:27,791 - __main__ - INFO - Gemini AI model initialized successfully - [app.py:44]
+2025-05-27 12:48:57,045 - __main__ - WARNING - Using hardcoded API key - this should be moved to environment variables - [app.py:38]
+2025-05-27 12:48:57,045 - __main__ - INFO - Gemini AI model initialized successfully - [app.py:44]
+2025-05-27 12:48:59,653 - __main__ - INFO - Gemini AI connection test successful - [app.py:48]
+2025-05-27 12:48:59,657 - __main__ - INFO - Starting server on port 5000 - [app.py:270]
+2025-05-27 12:48:59,658 - __main__ - INFO - Debug mode: False - [app.py:271]
+2025-05-27 12:48:59,659 - __main__ - INFO - API key configured: True - [app.py:272]
+2025-05-27 12:49:00,215 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.138.46:5000 - [_internal.py:97]
+2025-05-27 12:49:00,216 - werkzeug - INFO - [33mPress CTRL+C to quit[0m - [_internal.py:97]
+2025-05-27 13:05:36,359 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:05:36] "OPTIONS /chat HTTP/1.1" 200 - - [_internal.py:97]
+2025-05-27 13:05:36,381 - __main__ - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:05:36,417 - __main__ - INFO - Processing message: i feel quite angry lately - [app.py:156]
+2025-05-27 13:05:36,418 - __main__ - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:05:46,821 - __main__ - INFO - Successfully generated response of length 2182 - [app.py:199]
+2025-05-27 13:05:46,824 - werkzeug - INFO - 127.0.0.1 - - [27/May/2025 13:05:46] "POST /chat HTTP/1.1" 200 - - [_internal.py:97]
+2025-05-27 13:06:28,999 - app - WARNING - Using hardcoded API key - this should be moved to environment variables - [app.py:38]
+2025-05-27 13:06:28,999 - app - INFO - Gemini AI model initialized successfully - [app.py:44]
+2025-05-27 13:06:31,361 - app - INFO - Gemini AI connection test successful - [app.py:48]
+2025-05-27 13:06:31,369 - waitress - INFO - Serving on http://0.0.0.0:5000 - [wasyncore.py:449]
+2025-05-27 13:12:53,324 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:12:53,328 - app - INFO - Processing message: very sad and depressed what should i do - [app.py:156]
+2025-05-27 13:12:53,329 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:13:05,397 - app - INFO - Successfully generated response of length 2983 - [app.py:199]
+2025-05-27 13:30:41,881 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:30:41,883 - app - INFO - Processing message: hi - [app.py:156]
+2025-05-27 13:30:41,884 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:30:45,114 - app - INFO - Successfully generated response of length 36 - [app.py:199]
+2025-05-27 13:31:00,231 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:31:00,232 - app - INFO - Processing message: i am not feeling good today. - [app.py:156]
+2025-05-27 13:31:00,232 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:31:03,168 - app - INFO - Successfully generated response of length 422 - [app.py:199]
+2025-05-27 13:31:32,180 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:31:32,182 - app - INFO - Processing message: i am feeling anxious and confused about my future - [app.py:156]
+2025-05-27 13:31:32,183 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:31:44,363 - app - INFO - Successfully generated response of length 3055 - [app.py:199]
+2025-05-27 13:33:06,403 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:33:06,404 - app - INFO - Processing message: can you talk to me and help me - [app.py:156]
+2025-05-27 13:33:06,405 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:33:10,825 - app - INFO - Successfully generated response of length 790 - [app.py:199]
+2025-05-27 13:33:47,511 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:33:47,512 - app - INFO - Processing message: my cat is not eating and pooping continously - [app.py:156]
+2025-05-27 13:33:47,513 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:33:55,982 - app - INFO - Successfully generated response of length 1978 - [app.py:199]
+2025-05-27 13:35:51,026 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:35:51,027 - app - INFO - Processing message: kya haal babu - [app.py:156]
+2025-05-27 13:35:51,027 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:35:54,267 - app - INFO - Successfully generated response of length 214 - [app.py:199]
+2025-05-27 13:36:43,456 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:36:43,457 - app - INFO - Processing message: mera dost dalit hai, usse bina chue kaise baat karu - [app.py:156]
+2025-05-27 13:36:43,457 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:36:52,736 - app - INFO - Successfully generated response of length 878 - [app.py:199]
+2025-05-27 13:38:37,948 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:38:37,950 - app - INFO - Processing message: mera dost kaala hai, usse gora kaise kare aur uske pass ek billi hai jo bina khaaye hagti rehti hai - [app.py:156]
+2025-05-27 13:38:37,951 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:38:45,487 - app - INFO - Successfully generated response of length 740 - [app.py:199]
+2025-05-27 13:40:30,297 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:40:30,298 - app - INFO - Processing message: hamka thik naahi laagat hai, kacchu batawa funny sa - [app.py:156]
+2025-05-27 13:40:30,299 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:40:33,190 - app - INFO - Successfully generated response of length 174 - [app.py:199]
+2025-05-27 13:40:54,509 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:40:54,510 - app - INFO - Processing message: ille - [app.py:156]
+2025-05-27 13:40:54,510 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:41:00,537 - app - INFO - Successfully generated response of length 1025 - [app.py:199]
+2025-05-27 13:41:50,007 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:41:50,009 - app - INFO - Processing message: mera dost bauna hai mai usse lamba kaise kru - [app.py:156]
+2025-05-27 13:41:50,010 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:41:52,038 - app - INFO - Successfully generated response of length 116 - [app.py:199]
+2025-05-27 13:43:14,530 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:43:14,532 - app - INFO - Processing message: mera dost bahot mota hai, kya uski charbi lighter se gala ke usse patla kar sakte hai - [app.py:156]
+2025-05-27 13:43:14,533 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:43:18,983 - app - INFO - Successfully generated response of length 408 - [app.py:199]
+2025-05-27 13:44:52,150 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:44:52,153 - app - INFO - Processing message: chothi aankein kaise badi kare? kya unhe do side se pakad ke kheechne se wo badi ho jaaengi - [app.py:156]
+2025-05-27 13:44:52,153 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:44:58,094 - app - INFO - Successfully generated response of length 447 - [app.py:199]
+2025-05-27 13:50:21,515 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:50:21,517 - app - INFO - Processing message: mujhe bhoot dikhte hai mai kya kru - [app.py:156]
+2025-05-27 13:50:21,518 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:50:24,038 - app - INFO - Successfully generated response of length 99 - [app.py:199]
+2025-05-27 13:50:51,792 - app - INFO - Received chat request from 127.0.0.1 - [app.py:135]
+2025-05-27 13:50:51,794 - app - INFO - Processing message: mujhe bhoot yani ghost dikhte hai - [app.py:156]
+2025-05-27 13:50:51,795 - app - DEBUG - Attempt 1 to generate content - [app.py:165]
+2025-05-27 13:51:02,030 - app - INFO - Successfully generated response of length 1232 - [app.py:199]
