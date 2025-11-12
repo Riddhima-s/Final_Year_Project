@@ -7,7 +7,7 @@ import random
 from typing import Optional, List, Dict
 
 # Configure the API
-genai.configure(api_key="AIzaSyBysD0Y8IIxdWKPpiwnnQMjPdgYC6h6gjs")
+genai.configure(api_key="your_API")
 print("API key set successfully!")
 
 class TherapyPal:
