@@ -34,7 +34,7 @@ if not API_KEY:
     logger.error("GEMINI_API_KEY not found in environment variables")
     raise ValueError("GEMINI_API_KEY environment variable is required")
 
-if API_KEY =="AIzaSyAxsi_rtC7cYHrrfpBS7F6tI2cnQrcAXRo":
+if API_KEY =="your_API":
     logger.warning("Using hardcoded API key - this should be moved to environment variables")
 
 # Configure Gemini AI with better error handling
